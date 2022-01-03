@@ -7,6 +7,7 @@ Download the pair list from the exchange folder and import this list into Tradin
 | Exchange      | Market Type   |
 | ------------- |:-------------:|
 | Binance     | Spot |
+| ByBit      | Spot      |
 | FTX      | Spot      |
 | Bittrex | Spot      |
 | Kraken| Spot|
